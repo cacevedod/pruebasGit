@@ -15,3 +15,4 @@ daño 4 .
 daño 5
 =======
 >>>>>>> 2e8ed8559e3174a7d589ccafbc28cc61cf5799cb
+daño 6.
