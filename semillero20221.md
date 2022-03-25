@@ -1,2 +1,9 @@
 una vez un desarrollador que trabajaba en devco
-y le tocó aprender como utilizar git
+daño1
+
+
+
+daño 2
+
+
+daño3
