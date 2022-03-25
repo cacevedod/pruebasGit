@@ -14,6 +14,7 @@ daño 2
 daño3
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 daño 4 .
 daño 5
@@ -28,3 +29,21 @@ lo que causó que las personas se reunieran para resolver los problemas
 Pero todo cambió cuando la Nación de los conflictos atacó
 >>>>>>> 1c97eb7b00c308fd9a98f2043412b6f0e260daa2
  
+=======
+al desarrollador le salieron conflictos
+=======
+<<<<<<< HEAD
+=======
+Pero todo cambió cuando la Nación de los conflictos atacó
+>>>>>>> 952e9ed73c55876de979433d78769905d70b5b5e
+=======
+lo que causó que las personas se reunieran para resolver los problemas
+Pero todo cambió cuando la Nación de los conflictos atacó
+<<<<<<< HEAD
+>>>>>>> 1c97eb7b00c308fd9a98f2043412b6f0e260daa2
+>>>>>>> main
+El desarrollador se la pasaba tratando de agregar lineas
+=======
+El product owner aparecio y les pregunto muchachos que pasa andan jugando ping pong?
+>>>>>>> d0602dca0f279b527549d9e8f93b167371fa3d8d
+>>>>>>> 860e6091304912ee27155b5b9b2220481e54ea00
