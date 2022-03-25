@@ -7,3 +7,4 @@ daño 2
 
 
 daño3
+al desarrollador le salieron conflictos
