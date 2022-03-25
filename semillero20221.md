@@ -1,2 +1,11 @@
 una vez un desarrollador que trabajaba en devco
-realizó una practica de Git con sus compañeros
+que queria realizar una aplicación
+y llamo a sus compañeros para trabajar juntos y usaron git
+daño1
+
+
+
+daño 2
+
+
+daño3
