@@ -5,6 +5,7 @@ en un descuido hicieron push directamente a main y se daño el repositorio
 <<<<<<< HEAD
 daño1
 
+cambio de paola 
 
 
 daño 2
