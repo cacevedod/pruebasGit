@@ -34,7 +34,7 @@ al desarrollador le salieron conflictos
 =======
 <<<<<<< HEAD
 =======
-Pero todo cambió cuando la Nación de los conflictos atacó
+Pero todo cambió cuando la Nación de los conflictos atacó.
 >>>>>>> 952e9ed73c55876de979433d78769905d70b5b5e
 =======
 lo que causó que las personas se reunieran para resolver los problemas
