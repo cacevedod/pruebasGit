@@ -5,3 +5,5 @@ en un descuido hicieron push directamente a main y se daño el repositorio
 lo que causó que las personas se reunieran para resolver los problemas
 Pero todo cambió cuando la Nación de los conflictos atacó
 esto causo que el equipo del semillero se reuniera para combatirlo
+El semillero aprovecho todo su conocimiento en git para lanzar los comandos del poder
+finalmente lograron resolver todos los conflictos garantizando que el código quedaría OK
