@@ -1,5 +1,5 @@
 Una vez un grupo de estudio de TI inicio con su aprendizaje de git
-
+iniciaron estudiando sobre el working directory y staging area, para entender porque es un repo distribuido
 
 
 
