@@ -1,12 +1,13 @@
 Una vez un grupo de estudio de TI inicio con su aprendizaje de git
 iniciaron estudiando sobre el working directory y staging area, para entender porque es un repo distribuido
 posteriormente usaron los comandos git add, git commit y git push para subir sus primeros cambios al repo
-
+aprendieron el uso de git pull, fetch y push 
 aunque no sabian bien como funcionaban cada uno, realizaron las pruebas
 una vez tenemos estos comandos claros, teníamos que entender git pull y git fetch,
 el git fetch me permite ver los cambios en el repositorio remoto
 el git pull me permite descargar los cambios del repositorio remoto
 adicional aprendimos que el comando git difftool sirve para abrir una herramienta de solucion de conflictos
+posteriormente obtuvimos un conflicto al hacer la configuracion del meld para solucionar conflictos
 continuamos con la creacion de esta historia de aprendices
 con la idea de que se vea el interes por el aprendizaje
 
