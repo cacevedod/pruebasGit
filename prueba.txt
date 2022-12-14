@@ -7,7 +7,8 @@ una vez tenemos estos comandos claros, teníamos que entender git pull y git fet
 el git fetch me permite ver los cambios en el repositorio remoto
 el git pull me permite descargar los cambios del repositorio remoto
 adicional aprendimos que el comando git difftool sirve para abrir una herramienta de solucion de conflictos
-
+continuamos con la creacion de esta historia de aprendices
+con la idea de que se vea el interes por el aprendizaje
 
 
 
