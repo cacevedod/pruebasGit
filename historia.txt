@@ -9,3 +9,5 @@ usamos los comandos pull, status, add, commit y push para subir nuestros cambios
 pero todo no era felicidad, nos salieron algunos conflictos y debíamos resulverlos
 comprender con exactitud los diversos errores de merge que podrían salir 
 ayudando a prepararse para enfrentar proyectos de mayor complejidad
+esto nos ayudaba ha aplicar todo lo teórico aprendido, enfrentarnos ha algo más díficil
+ahora vamos a resolver conflictos
