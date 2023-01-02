@@ -6,3 +6,4 @@ usamos los comandos pull, status, add, commit y push para subir nuestros cambios
 pero todo no era felicidad, nos salieron algunos conflictos y debíamos resulverlos
 Las personas estaban felices por aprender a usar los conflictos
 además de aprender a usar meld para solucionar los conflictos
+esto nos ayudaba ha aplicar todo lo teórico aprendido, enfrentarnos ha algo más díficil
