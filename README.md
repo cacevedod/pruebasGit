@@ -3,4 +3,6 @@ Proyecto para jugar con git
 Aplicar los conceptos adquiridos sobre git y GitHub
 
 
-Hello, world.
+Los comandos aprendidos hoy fueron: 
+- `git merge`
+- `gi  commit`
