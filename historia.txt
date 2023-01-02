@@ -1,1 +1,2 @@
 Una día los integrantes del semillero necesitaban practicar un poco con git
+para esto se inició la configuración de las cuentas dentro de GitHub.
