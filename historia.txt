@@ -1,1 +1,2 @@
 Una día los integrantes del semillero necesitaban practicar un poco con git
+y resulta que tenemos un problema y debemos resolverlo
