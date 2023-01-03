@@ -1,7 +1,7 @@
 Una día los integrantes del semillero necesitaban practicar un poco con git
-intentabamos entender los comandos principales de git y practicar solución de conflictos
-usamos los comandos pull, status, add, commit y push para subir nuestros cambios
-para esto se inició la configuración de las cuentas dentro de GitHub
+intentabamos entender los comandos principales de git y practicar solución de conflictos. Hello
+usamos los comandos pull, status, add, commit y push para subir nuestros cambios.
+para esto se inició la configuración de las cuentas dentro de GitHub.
 y en el repositorio publico del semillero subimos unos cambios
 los cambios nos contaban una buena historia sobre git
 usamos los comandos pull, status, add, commit y push para subir nuestros cambios
