@@ -1,0 +1,9 @@
+Una día los integrantes del semillero necesitaban practicar un poco con git
+intentabamos entender los comandos principales de git y practicar solución de conflictos
+para esto se inició la configuración de las cuentas dentro de GitHub
+y en el repositorio publico del semillero subimos unos cambios
+los cambios nos contaban una buena historia sobre git
+usamos los comandos pull, status, add, commit y push para subir nuestros cambios
+pero todo no era felicidad, nos salieron algunos conflictos y debíamos resulverlos
+pero uno de los estudiantes se quedo hasta tarde para darle solución sin exito alguno.
+Linea modificada por mod1.
