@@ -6,4 +6,4 @@ y en el repositorio publico del semillero subimos unos cambios
 los cambios nos contaban una buena historia sobre git
 usamos los comandos pull, status, add, commit y push para subir nuestros cambios
 pero todo no era felicidad, nos salieron algunos conflictos y debíamos resolverlos para esto utilizamos meld que nos ayuda a resolver de manera mas facil estos conflictos. Los cualessepueden presentar en 
-cualquier momento
+cualquier momento.
