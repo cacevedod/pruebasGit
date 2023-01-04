@@ -5,13 +5,15 @@ para esto se inició la configuración de las cuentas dentro de GitHub.
 y en el repositorio publico del semillero subimos unos cambios
 los cambios nos contaban una buena historia sobre git
 usamos los comandos pull, status, add, commit y push para subir nuestros cambios
+<<<<<<< HEAD
+pero todo no era felicidad, nos salieron algunos conflictos y debíamos resolverlos para esto utilizamos meld que nos ayuda a resolver de manera mas facil estos conflictos. Los cualessepueden presentar en 
+cualquier momento.
+todos los conflictos fueron resueltos con exito y avanzamos en la practica.
+Algunos compañeros les costo más a que a otros entender bien la practica,
+Pero con ayuda de Carlos e investigar en internet logramos solucionar todas las dudas y seguir adelante. 
+=======
 pero todo no era felicidad, nos salieron algunos conflictos y debíamos resulverlos
 Las personas estaban felices por aprender a usar los conflictos
 además de aprender a usar meld para solucionar los conflictos
 Se modifica la linea nueve para generar conflicto. rama modif1.
-resolverlos para esto utilizamos meld que nos ayuda a resolver de manera mas facil estos conflictos. Los cualessepueden presentar en 
-cualquier momento.
-todos los conflictos fueron resueltos con exito y avanzamos en la practica.
-Algunos compañeros les costo más a que a otros entender bien la practica,
-Logrando que todos aprendieran.
-Pero con ayuda de Carlos e investigar en internet logramos solucionar todas las dudas y seguir adelante
+>>>>>>> modif1
