@@ -7,3 +7,4 @@ los cambios nos contaban una buena historia sobre git
 usamos los comandos pull, status, add, commit y push para subir nuestros cambios
 pero todo no era felicidad, nos salieron algunos conflictos y debíamos resolverlos para esto utilizamos meld que nos ayuda a resolver de manera mas facil estos conflictos, pero unos de los
 estudiantes se quedo hasta tarde para resolver el conflicto. Logrando a si resolverlos.
+Continuación historia meld practica.
